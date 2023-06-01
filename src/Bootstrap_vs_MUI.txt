@@ -1,0 +1,5 @@
+///////////////////every thing we should need to use We can importit firstly///////////////////
+{Box(component="section"||component="span"),wrapper === Div(container)}  //we can do any custom style and propeties
+{typography{variant}===p,h1,h2,h3,subtitle,body1,body2,overline,inherit etc}
+{container(disableGutters={true} maxWidth="sm")===div.container}
+{paper===card}
